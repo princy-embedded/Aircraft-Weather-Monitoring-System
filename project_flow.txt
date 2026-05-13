@@ -1,0 +1,26 @@
+START
+
+↓
+Initialize LPC2148 Microcontroller
+
+↓
+Read Weather Sensor Data
+
+↓
+Process Temperature and Atmospheric Conditions
+
+↓
+Check Landing Safety Conditions
+
+↓
+If Unsafe:
+    Trigger Self-Landing Assistance
+
+↓
+Display Status on LCD
+
+↓
+Transmit Data using UART
+
+↓
+Repeat Monitoring Loop
